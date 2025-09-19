@@ -1,6 +1,3 @@
-github: https://github.com/SujalNeupane9
-linkedin: https://www.linkedin.com/in/sujal-neupane-2a9a2b210/
-
 # Breast-Cancer-Survival-Prediction
 
 ## Overview
@@ -29,9 +26,5 @@ This repository contains code for predicting breast cancer survival using machin
 4. Execute the `run_pipeline.py` script to train the model.
 5. Run the `streamlit_app.py` to experience the model via the Streamlit app.
 
-## Contributions
-Contributions are welcome! Feel free to fork this repository, make changes, and create a pull request. Please adhere to the repository's guidelines.
 
-## License
-This project is licensed under [MIT License](LICENSE).
 
